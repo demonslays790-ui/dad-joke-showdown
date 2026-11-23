@@ -3,7 +3,9 @@
 - Competition: `u-mfnakmal-dad-joke-showdown-1d2ce3e5` ("Dad Joke Showdown"), program/v1
 - Repo: https://github.com/demonslays790-ui/dad-joke-showdown
 - Repo created 2026-11-23T20:30:09Z (after competition opened 2026-11-23T20:24:42Z)
-- Commit: `98b4c2fd2d37f62878f92a0abf8487c26dcc2e9a` (root commit, main)
+- Commit: `cedc3bd787fbcd74fdb4df54eced1d682237a6a5` (main; root commit
+  `98b4c2fd2d37f62878f92a0abf8487c26dcc2e9a` holds main.py/README/LICENSE/owner.json,
+  this commit adds BUILD_NOTES.md itself)
 - Kit: `~/workspace/makefun/dad-joke-showdown-kit.tar.gz` unpacked to
   `~/workspace/makefun/dad-joke-showdown-kit/u-mfnakmal-dad-joke-showdown-1d2ce3e5-kit`
   (note: the tarball has one nested top-level dir). Kit bundle sha256
